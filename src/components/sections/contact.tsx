@@ -14,7 +14,7 @@ export function Contact() {
           transition={{ duration: 0.8, ease: [0.16, 1, 0.3, 1] }}
         >
           <h2 className="mb-6 text-4xl font-bold tracking-tighter sm:text-6xl font-syne">
-            Let's work <br />
+            Let&apos;s work <br />
             <span className="text-neutral-500">together.</span>
           </h2>
           <p className="mb-12 text-lg text-neutral-400 max-w-md leading-relaxed">

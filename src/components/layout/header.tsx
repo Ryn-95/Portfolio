@@ -56,7 +56,7 @@ export function Header() {
           href="mailto:contact@rayanemouhajer.com"
           className="hidden md:flex items-center justify-center px-6 py-2 rounded-full border border-white/10 text-sm text-white hover:bg-white hover:text-black transition-all duration-300"
         >
-          Let's Talk
+          Let&apos;s Talk
         </Link>
       </div>
     </motion.header>
